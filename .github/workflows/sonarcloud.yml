@@ -2,7 +2,7 @@ name: SonarCloud workflow
 on:
   push:
     branches:
-      - master
+      - Nathaphat
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
